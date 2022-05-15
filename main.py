@@ -1,4 +1,4 @@
-import build.Debug.module_name import *
+import module_name as mn
 
-print(fibonacci_cpp(8))
-print(fibonacci_cpp(16))
+print(mn.fibonacci_cpp(8))
+print(mn.fibonacci_cpp(16))

@@ -1,1 +1,6 @@
+# cmake
 build
+
+# build with python (pip)
+module_name.egg-info
+module_name.cp38-win_amd64.pyd
